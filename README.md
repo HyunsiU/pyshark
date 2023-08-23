@@ -12,7 +12,7 @@ wireshark 같이 헤더 및 데이터 구분하여 출력해주는 도구 만들
 
 
 ### 개발 환경
-python
+python(pyshark)
 
 
 ### 패킷 헤더 타입 종류
