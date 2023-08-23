@@ -1,4 +1,4 @@
-![image](https://github.com/HyunsiU/pyshark/assets/53931656/e2ecd971-00e3-4721-898f-cf89911307b2)# pyshark
+# pyshark
 
 
 ## 공부 숙제
