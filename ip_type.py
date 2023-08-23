@@ -12,3 +12,4 @@ protocol_type = {
     '8863' : 'PPPoE Discovery Stage',
     '8864' : 'PPPoE PPP Session Stage'
 }
+#출처 : https://blog.naver.com/sujunghan726/220315439853
